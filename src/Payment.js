@@ -129,7 +129,7 @@ function Payment() {
         setProcessing(false);
 
         dispatch({
-          type: "REMOVE_FROM_BASKET",
+          type: "REDUCE_FROM_BASKET",
         });
 
         history.replace("/orders");
