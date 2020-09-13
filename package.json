@@ -42,18 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {},
-  "author": "",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/NikhilSathish/amazonclone.git"
-  },
-  "bugs": {
-    "url": "https://github.com/NikhilSathish/amazonclone/issues"
-  },
-  "homepage": "https://github.com/NikhilSathish/amazonclone#readme"
+  }
 }
